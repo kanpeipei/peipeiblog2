@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FuelPHP
 
 * Version: 1.8.2
@@ -36,3 +37,6 @@ You can not apply for membership. Start by sending in pull-requests, work on out
 * Jelmer Schreuder - Developer ([http://jelmerschreuder.nl/](http://jelmerschreuder.nl/))
 * Phil Sturgeon - Developer ([http://philsturgeon.co.uk](http://philsturgeon.co.uk))
 * Dan Horrigan - Founder, Developer ([http://dhorrigan.com](http://dhorrigan.com))
+=======
+# peipeiblog2
+>>>>>>> 73af71cea23594ed38f6b577ff964545d9997df5
