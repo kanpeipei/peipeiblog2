@@ -1,0 +1,54 @@
+.navbar-inverse{
+    background-color:rgb(38, 146, 146);
+}
+.navpei__item {
+    color:rgb(252, 252, 252) !important;
+    font-family: "游ゴシック体", YuGothic, "YuGothic M", sans-serif;
+    float:right;
+}
+.bar__title{
+    color:rgba(221, 221, 221, 0.781);
+    float: left;
+}
+
+.title{
+    font-family:'arial black';
+    color:rgb(38, 146, 146);
+}
+.sub_title{
+    font-size: 70px;
+    font-family: "游ゴシック体", YuGothic, "YuGothic M", sans-serif;
+    color:rgb(38, 146, 146);
+    margin-top: 40px;
+}
+.row{
+    text-align:center;
+}
+.new__post{
+    font-family: inherit;
+}
+.form-control{
+    margin-bottom: 30px;
+}
+.error{
+    color:rgb(216, 18, 18);
+}
+.new__account{
+    box-sizing: border-box;
+    margin:10px 0px 10px 0px;
+    padding:10px 0px 10px 0px;
+}
+.new__account a{
+    color:rgb(38, 146, 146);
+}
+.post__bar tr{
+    padding:100px;
+}
+td{
+    padding:10px;
+}
+
+
+footer{
+    padding: 10px 150px;
+}
